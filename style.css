@@ -1,0 +1,122 @@
+:root{
+--branco-principal: #FFFFFF;
+--cinza-secundario: #C0C0C0;
+--botao-azul: rgb(0, 0, 0);
+--cor-de-fundo: #0e0d0ddd;
+
+}
+
+body{
+    background: black;
+color: white;
+}
+
+head{
+
+
+
+}
+
+
+.ze{
+border-bottom: solid rgb(255, 0, 0);
+border-top: solid rgb(255, 0, 0);
+margin: -8px;
+display: center;
+font-size: 25px;
+margin-top: 10px;
+
+
+
+}
+
+.titulo{
+margin-left: 620px;
+color: red;
+font-size: large 200px;
+font-size: 35px;
+
+
+
+
+}
+
+.titulo-principal{
+
+
+}
+
+.link{
+margin-top: 30px;
+background: rgb(0, 0, 0);
+margin-left: -10px;
+margin-right: -10px;
+border-top: solid rgb(255, 0, 0);
+font-size: 25px;
+border-bottom: solid red;
+border-radius: 10px; 
+background-color: white;
+
+
+}
+
+.imagem{
+margin-left: 10px;
+background: white;
+
+}
+
+.assista{
+    border-bottom: solid red;
+  
+
+}
+
+.curso{
+border-bottom: solid red;
+
+
+}
+
+.celele{
+border-bottom: solid red;
+
+}
+
+.cele{
+margin-left: 485px;
+
+}
+
+.pc{
+margin-left: 500px;
+
+}
+
+.tev{
+margin-left: 500px;
+
+}
+
+.teve{
+border-bottom: solid red;
+
+}
+
+.computa{
+border-bottom: solid red;
+
+}
+
+html{
+    font-family: "Darker Grotesque", sans-serif;
+
+}
+
+.final{
+font-size: 20px;
+display: flex;
+color: red;
+
+}
+
